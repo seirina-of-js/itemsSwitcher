@@ -26,6 +26,8 @@
 .switchers {
     font-size: 0;
     text-align: left;
+    width: 615px;
+    margin: 0 auto;
 }
 
 .switcher {
